@@ -22,14 +22,14 @@ repository               : "zenghao-stat/zenghao-stat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hao Zeng"
-  pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Statistics"
+  pronouns         : "he/him"  
+  bio              : "Postdoctoral"
   location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology"
-  uri              : # URL
-  email            : # "your.email@example.com" 
+  employer         : "Southern University \\ of Science and Technology"
+  uri              : "https://zenghao-stat.github.io"
+  email            : "zenghao.stat@gmail.com" 
 
   # Academic websites
   academia         : # URL

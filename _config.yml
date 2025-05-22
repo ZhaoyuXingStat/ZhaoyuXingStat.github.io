@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Hao Zeng"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Postdoctoral"
   location         : "Shenzhen, China"
-  employer         : "Southern University \\ of Science and Technology"
-  uri              : "https://zenghao-stat.github.io"
+  employer         : "Southern University of <br> Science and Technology"
+  uri              : # "https://zenghao-stat.github.io"
   email            : "zenghao.stat@gmail.com" 
 
   # Academic websites

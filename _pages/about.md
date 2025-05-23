@@ -15,6 +15,10 @@ My research focuses on **statistical machine learning theory, methods, and their
 
 ## News
 
+- **2025/05**: Our paper "Parametric Scaling Law of Tuning Bias in Conformal Prediction" has been accepted to ICML 2025!
+- **2024/07**: Started postdoctoral position at the Department of Statistics and Data Science, Southern University of Science and Technology (SUSTech) under the SUSTech-NUS Joint Research Program.
+- **2024/06**: Graduated with a Ph.D. in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University.
+
 ## Working Papers & Preprints
 
 **2025**

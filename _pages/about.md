@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# Dr. Hao Zeng
-
 I am currently a Postdoctoral in Statistics at the Southern University of Science and Technology (SUSTech) and National University of Singapore (NUS), Department of Statistics and Data Science, supported by the SUSTech-NUS Joint Research Program, supervised by **[Prof. Bingyi Jing](https://www.sustech.edu.cn/zh/faculties/jingbing-yi.html)**, **[Prof. Hongxin Wei](https://hongxin001.github.io/)** (SUSTech), and **[Prof. Wang Zhou](https://www.stat.nus.edu.sg/wang-zhou/)** (NUS). I received my PhD in Statistics from Xiamen University in 2024, where I was advised by **[Prof. Wei Zhong](https://faculty.xmu.edu.cn/wzhong/zh_CN/index/559037/list/index.htm)**, with **[Prof. Xingbai Xu](https://faculty.xmu.edu.cn/XXB/zh_CN/index.htm)** and **[Prof. Tuo Liu](https://faculty.xmu.edu.cn/LT1234/zh_CN/index/582397/list/index.htm)** as co-advisors. During 2018-2020, I completed my academic master's degree in Quantitative Economics before transferring to the PhD program in Statistics. I was a visiting researcher at the Department of Statistics, National University of Singapore (NUS) from May to October 2023. I completed my Bachelor of Science in Mathematics at Shandong University in 2018. 
 
 My research focuses on **statistical machine learning theory, methods, and their applications on uncertainty quantification**, particularly developing novel methodologies that bridge statistical theory with practical applications. I am also interested in interdisciplinary research at the intersection of machine learning with econometrics and biostatistics.
@@ -19,7 +16,7 @@ My research focuses on **statistical machine learning theory, methods, and their
 - **2024/07**: Started postdoctoral position at the Department of Statistics and Data Science, Southern University of Science and Technology (SUSTech) under the SUSTech-NUS Joint Research Program.
 - **2024/06**: Graduated with a Ph.D. in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University.
 
-## Working Papers & Preprints
+## Working Papers
 
 **2025**
 - Zeng, H., Liu, K., Jing, B., & Wei, H. (2025). "Parametric Scaling Law of Tuning Bias in Conformal Prediction." *arXiv*. [https://doi.org/10.48550/arXiv.2502.03023](https://doi.org/10.48550/arXiv.2502.03023)

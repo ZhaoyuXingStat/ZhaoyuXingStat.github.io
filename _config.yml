@@ -23,22 +23,22 @@ repository               : "ZhaoyuXingStat.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hao Zeng"
+  name             : "Zhaoyu Xing"
   pronouns         : # "he/him"  
   bio              : "Postdoctoral"
-  location         : "Shenzhen, China"
-  employer         : "Southern University of <br> Science and Technology"
+  location         : "South Bend, IN, U.S."
+  employer         : "University of Notre Dame"
   uri              : # "https://zenghao-stat.github.io"
-  email            : "zenghao.stat@gmail.com" 
+  email            : "zxing@nd.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=-EiBHeIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=go6euNkAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-4344-8684" # 
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # ""
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "zenghao-stat"
+  github           : "ZhaoyuXingStat"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

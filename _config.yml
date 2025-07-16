@@ -22,7 +22,7 @@ repository               : "ZhaoyuXingStat/ZhaoyuXingStat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "MyPhoto.jpg"
   name             : "Zhaoyu Xing"
   pronouns         : # "he/him"  
   bio              : "Statistics Ph.D. from Xiamen University. Passionate about guitar 🎸, milk tea 🍵, and occasionally doing some statistics 📊."

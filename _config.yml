@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhaoyu Xing / 邢照宇"
+title                    : "Zhaoyu Xing / 邢兆雨"
 title_separator          : "-"
 name                     : &name "Zhaoyu Xing"
-description              : &description "Postdoctoral Research Associate in Statistics"
+description              : &description "Robert and Sara Lumpkins Postdoctoral Research Associate in Statistics"
 url                      : https://ZhaoyuXingStat.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhaoyuXingStat/ZhaoyuXingStat.github.io"
@@ -29,7 +29,7 @@ author:
   location         : "South Bend, Indiana"
   employer         : "University of Notre Dame"
   uri              : # "https://zenghao-stat.github.io"
-  email            : "your-email@example.com" # <-- 请替换成你的邮箱
+  email            : "zxing@nd.edu" # <-- 请替换成你的邮箱
 
   # Academic websites
   academia         : # URL

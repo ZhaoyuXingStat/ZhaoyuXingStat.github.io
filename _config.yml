@@ -42,11 +42,9 @@ repository               : "ZhaoyuXingSta/ZhaoyuXingStat.github.io"
 
 #               Additional customization can be done by editing /_includes/author-profile.html
 
-author:
+author: 
 
-  # Biographic information
-
-  avatar           : "MyPhoto.jpg"
+  avatar           : "images/MyPhoto.jpg"
 
   name             : "Zhaoyu Xing"
 

@@ -11,14 +11,8 @@ redirect_from:
 I am currently a Robert and Sara Lumpkins Postdoctoral Research Associate at University of Notre Dame (ND) in U.S., Department of Applied and Computational Mathematics and Statistics. I received my PhD in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University in 2025, where I was advised by **[Prof. Wei Zhong](https://faculty.xmu.edu.cn/wzhong/zh_CN/index/559037/list/index.htm)**. During 2023-2024, I was a visiting researcher at the Australian National University (ANU), College of Business and Economics. During 2019-2021, I completed my academic master's courses in Mathmatical Statistics at Wang Yanan Institute for Studies in Economics (WISE) of Xiamen University. I completed my Bachelor of Science in Statistics at School of Economics, Xiamen University. 
 
 My research focuses on **statistical machine learning, methods, and their applications on networks**, particularly developing novel methodologies that bridge statistical theory with practical applications. I am also interested in interdisciplinary research at the intersection of statistics with **machine learning**, **econometrics**, and **biostatistics**.
+
  
-## Teaching Experience
-
-- **09/2024 - 12/2024**: Topics in Statistics (ND)
-- **09/2024 - 12/2024**: Regression Modelling (ANU)
-- **09/2024 - 12/2024**: Regression Modelling for Actuarial Studies (ANU)
-- **03/2024 - 07/2024**: Statistical Learning (ANU)
-
 ## Working Papers
 
 - Che C., Chen Y., **Xing Z.'**, Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation" *arXiv*. [https://arxiv.org/abs/2507.09800](https://arxiv.org/abs/2507.09800)
@@ -40,6 +34,13 @@ My research focuses on **statistical machine learning, methods, and their applic
 See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&hl=en&oi=ao) for the latest publications.
 
  
+
+## Teaching Experience
+
+- **09/2024 - 12/2024**: Topics in Statistics (ND)
+- **09/2024 - 12/2024**: Regression Modelling (ANU)
+- **09/2024 - 12/2024**: Regression Modelling for Actuarial Studies (ANU)
+- **03/2024 - 07/2024**: Statistical Learning (ANU)
 
 
 ## Selected Rewards

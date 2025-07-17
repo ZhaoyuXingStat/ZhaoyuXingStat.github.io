@@ -6,44 +6,51 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> Heterogeneity nourishes statistics; independence begets probability; uncertainty is eternal.
+> High-Dimensional Statistics, Network Modeling, Statistical Machine Learning, Unsupervised Learning
 
-I am currently a Postdoctoral in Statistics at the Southern University of Science and Technology (SUSTech) and National University of Singapore (NUS), Department of Statistics and Data Science, supported by the SUSTech-NUS Joint Research Program, supervised by **[Prof. Bingyi Jing](https://www.sustech.edu.cn/zh/faculties/jingbing-yi.html)**, **[Prof. Hongxin Wei](https://hongxin001.github.io/)**, and **[Prof. Wang Zhou](https://www.stat.nus.edu.cn/wang-zhou/)**. I received my PhD in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University in 2024, where I was advised by **[Prof. Wei Zhong](https://faculty.xmu.edu.cn/wzhong/zh_CN/index/559037/list/index.htm)**, with **[Prof. Xingbai Xu](https://faculty.xmu.edu.cn/XXB/zh_CN/index.htm)** and **[Prof. Tuo Liu](https://faculty.xmu.edu.cn/LT1234/zh_CN/index/582397/list/index.htm)** as co-advisors. During 2018-2020, I completed my academic master's courses in Quantitative Economics at Wang Yanan Institute for Studies in Economics before transferring to the PhD program in Statistics. I was a visiting researcher at the Department of Statistics, National University of Singapore (NUS) from May to October 2023. I completed my Bachelor of Science in Mathematics ([Peng's Class: Base of Financial Mathematics&Financial Engineering](https://www.math.sdu.edu.cn/info/1026/1612.htm)) at Shandong University in 2018. 
+I am currently a Robert and Sara Lumpkins Postdoctoral Research Associate at University of Notre Dame (ND) in U.S., Department of Applied and Computational Mathematics and Statistics. I received my PhD in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University in 2025, where I was advised by **[Prof. Wei Zhong](https://faculty.xmu.edu.cn/wzhong/zh_CN/index/559037/list/index.htm)**. During 2019-2021, I completed my academic master's courses in Mathmatical Statistics at Wang Yanan Institute for Studies in Economics (WISE) of Xiamen University. During 2023-2024, I was a visiting researcher at the Australian National University (ANU), College of Business and Economics. I completed my Bachelor of Science in Statistics ([Peng's Class: Base of Financial Mathematics&Financial Engineering](https://www.math.sdu.edu.cn/info/1026/1612.htm)) at School of Economics, Xiamen University. 
 
-My research focuses on **statistical machine learning theory, methods, and their applications on uncertainty quantification**, particularly developing novel methodologies that bridge statistical theory with practical applications. I am also interested in interdisciplinary research at the intersection of machine learning methodologies with **spatial statistics**, **econometrics**, and **biostatistics**.
+My research focuses on **statistical machine learning, methods, and their applications on networks**, particularly developing novel methodologies that bridge statistical theory with practical applications. I am also interested in interdisciplinary research at the intersection of statistics with **machine learning**, **econometrics**, and **biostatistics**.
 
-## News
 
-- **2025/05**: Our paper "Parametric Scaling Law of Tuning Bias in Conformal Prediction" has been accepted to ICML 2025!
-- **2024/07**: Started postdoctoral position at the Department of Statistics and Data Science, Southern University of Science and Technology (SUSTech) under the SUSTech-NUS Joint Research Program.
-- **2024/06**: Graduated with a Ph.D. in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University.
+% ## News
+
+% - **2025/05**: Our paper "Parametric Scaling Law of Tuning Bias in Conformal Prediction" has been accepted to ICML 2025!
+% - **2024/07**: Teaching
+% - **2025/06**: Graduated with a Ph.D. in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University.
+
+
+## Teaching Experience
+
+- **09/2024 - 12/2024**: Topics in Statistics (ND)
+- **09/2024 - 12/2024**: Regression Modelling (ANU)
+- **09/2024 - 12/2024**: Regression Modelling for Actuarial Studies (ANU)
+- **03/2024 - 07/2024**: Statistical Learning (ANU)
 
 ## Working Papers
 
-- Zeng, H., Liu, K., Jing, B., & Wei, H. (2025). "Parametric Scaling Law of Tuning Bias in Conformal Prediction." *arXiv*. [https://doi.org/10.48550/arXiv.2502.03023](https://doi.org/10.48550/arXiv.2502.03023)
+- Che C., Chen Y., **Xing Z.'**, Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation" *arXiv*. [https://arxiv.org/abs/2507.09800](https://arxiv.org/abs/2507.09800)
 
-- Gao, H., Zhang, F., Zeng, H., Meng, D., Jing, B., & Wei, H. (2025). "Exploring Imbalanced Annotations for Effective In-Context Learning." *arXiv*. [https://doi.org/10.48550/arXiv.2502.04037](https://doi.org/10.48550/arXiv.2502.04037)
+- Xing Z., Zhong W. (2025+). "PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction." *arXiv*. [https://arxiv.org/pdf/2411.11464](https://arxiv.org/pdf/2411.11464)
 
-- Xi, H., Liu, K., Zeng, H., Sun, W., & Wei, H. (2025). "Robust Online Conformal Prediction under Uniform Label Noise." *arXiv*. [https://doi.org/10.48550/arXiv.2501.18363](https://doi.org/10.48550/arXiv.2501.18363)
-
-- Zeng, H., Zhong, W., & Xu, X. (2024). "Transfer Learning for Spatial Autoregressive Models with Application to U.S. Presidential Election Prediction." *arXiv*. [https://doi.org/10.48550/arXiv.2405.15600](https://doi.org/10.48550/arXiv.2405.15600)
+- Xing Z., Wang Y. X. R., Wood A.T.T., Zou T. (2025+). "Regularization and Selection in A Directed Network Model with Nodal Homophily and Nodal Effects." *arXiv*. [https://arxiv.org/pdf/2504.04622](https://arxiv.org/pdf/2504.04622)
+ 
 
 ## Publications
 
-### Journal Articles
+% ### Journal Articles
 
 **2025**
-- Liu, K., Sun, T., Zeng, H., Zhang, Y., Pun, C.-M., & Vong, C.-M. (2025). "Spatial-Aware Conformal Prediction for Trustworthy Hyperspectral Image Classification." *IEEE Transactions on Circuits and Systems for Video Technology*. [https://ieeexplore.ieee.org/abstract/document/10960721/](https://ieeexplore.ieee.org/abstract/document/10960721/)
+- Xing, Z., Tan, H., Zhong, W., & Shi, L. (2025). CALMS: Constrained Adaptive Lasso with Multi-directional Signals for latent networks reconstruction. Neurocomputing, 630, 129545. [https://www.sciencedirect.com/science/article/pii/S0925231225002176?casa_token=Oube37sNX_UAAAAA:qF3LiPBXB-kASfdIWWMTlfi4ZZATvZfsbC5UAt447Y4_P-1dJ5e_KA6RTTVUBAs22CixfI8BCw](https://www.sciencedirect.com/science/article/pii/S0925231225002176?casa_token=Oube37sNX_UAAAAA:qF3LiPBXB-kASfdIWWMTlfi4ZZATvZfsbC5UAt447Y4_P-1dJ5e_KA6RTTVUBAs22CixfI8BCw)
 
 **2024**
-- Zeng, H., Wan, C., Zhong, W., & Liu, T. (2024). "Robust Integrative Analysis via Quantile Regression with Homogeneity and Sparsity." *Journal of Statistical Planning and Inference*, 234 (June): 106196. [https://doi.org/10.1016/j.jspi.2024.106196](https://doi.org/10.1016/j.jspi.2024.106196)
+- Xing, Z., Wan, Y., Wen, J., & Zhong, W. (2024). GOLFS: feature selection via combining both global and local information for high dimensional clustering. Computational Statistics, 39(5), 2651-2675. [https://link.springer.com/article/10.1007/s00180-023-01393-x](https://link.springer.com/article/10.1007/s00180-023-01393-x)
 
-- Wan, C., Zeng, H., Zhang, W., Zhong, W., & Zou, C. (2024). "Data‐driven Estimation for Multithreshold Accelerated Failure Time Model." *Scandinavian Journal of Statistics*, November, sjos.12758. [https://doi.org/10.1111/sjos.12758](https://doi.org/10.1111/sjos.12758)
+ 
+%### Software
 
-### Software
-
-**2023**
-- Wan, C., Zeng, H., Zhong, W., & Zou, C. (2023). "MTAFT: Data-Driven Estimation for Multi-Threshold Accelerate Failure Time Model." [https://cran.r-project.org/web/packages/MTAFT/index.html](https://cran.r-project.org/web/packages/MTAFT/index.html)
+%**2023**
+%- Wan, C., Zeng, H., Zhong, W., & Zou, C. (2023). "MTAFT: Data-Driven Estimation for Multi-Threshold Accelerate Failure Time Model." [https://cran.r-project.org/web/packages/MTAFT/index.html](https://cran.r-project.org/web/packages/MTAFT/index.html)
 
 --- 
-See my [Google Scholar](https://scholar.google.com/citations?user=-EiBHeIAAAAJ&hl=en) for the latest publications.
+See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&hl=en&oi=ao) for the latest publications.

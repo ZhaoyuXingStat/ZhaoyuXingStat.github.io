@@ -38,3 +38,17 @@ My research focuses on **statistical machine learning, methods, and their applic
  
 --- 
 See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&hl=en&oi=ao) for the latest publications.
+
+ 
+
+
+## Selected Rewards
+
+- Xiamen University Scholarship for Outstanding PhD Candidate	(2024)
+- First Prize at China Preliminary of Melbourne International Music Competition (2023)
+- Second Prize in the 4th National Industrial Big Data Innovation Competition	(2021)
+- Global Runner-Up in the Budweiser Challenge Competition	(2020)
+- Excellent Graduates of Xiamen University (2019)
+- Chailease International Scholarship (2019)
+- Xiamen University's Excellent Student (2019)
+

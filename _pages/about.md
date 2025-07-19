@@ -15,7 +15,7 @@ My research focuses on **statistical machine learning, methods, and their applic
  
 ## Working Papers
 
-- Che C., Chen Y., **Xing Z.'**, Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation" *arXiv*. [https://arxiv.org/abs/2507.09800](https://arxiv.org/abs/2507.09800)
+- Che C., Chen Y., **Xing Z$.^*$**, Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation" *arXiv*. [https://arxiv.org/abs/2507.09800](https://arxiv.org/abs/2507.09800)
 
 - **Xing Z.**, Zhong W. (2025+). "PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction." *arXiv*. [https://arxiv.org/pdf/2411.11464](https://arxiv.org/pdf/2411.11464)
 
@@ -25,7 +25,7 @@ My research focuses on **statistical machine learning, methods, and their applic
 ## Publications 
 
 **2025**
-- **Xing, Z.**, Tan, H., Zhong, W., & Shi, L. (2025). CALMS: Constrained Adaptive Lasso with Multi-directional Signals for latent networks reconstruction. Neurocomputing, 630, 129545. [https://www.sciencedirect.com/science/article/pii/S0925231225002176?casa_token=Oube37sNX_UAAAAA:qF3LiPBXB-kASfdIWWMTlfi4ZZATvZfsbC5UAt447Y4_P-1dJ5e_KA6RTTVUBAs22CixfI8BCw](https://www.sciencedirect.com/science/article/pii/S0925231225002176?casa_token=Oube37sNX_UAAAAA:qF3LiPBXB-kASfdIWWMTlfi4ZZATvZfsbC5UAt447Y4_P-1dJ5e_KA6RTTVUBAs22CixfI8BCw)
+- **Xing, Z.**, Tan, H., Zhong, W., & Shi, L. (2025). CALMS: Constrained Adaptive Lasso with Multi-directional Signals for latent networks reconstruction. Neurocomputing, 630, 129545. [https://www.sciencedirect.com/science/article/abs/pii/S0925231225002176](https://www.sciencedirect.com/science/article/abs/pii/S0925231225002176)
 
 **2024**
 - **Xing, Z.**, Wan, Y., Wen, J., & Zhong, W. (2024). GOLFS: feature selection via combining both global and local information for high dimensional clustering. Computational Statistics, 39(5), 2651-2675. [https://link.springer.com/article/10.1007/s00180-023-01393-x](https://link.springer.com/article/10.1007/s00180-023-01393-x)

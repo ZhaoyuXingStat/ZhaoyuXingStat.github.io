@@ -15,12 +15,11 @@ My research focuses on **statistical machine learning, methods, and their applic
  
 ## Working Papers
 
-- Che C., Chen Y., **Xing Z.**, Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation" *arXiv*. [Download](https://arxiv.org/abs/2507.09800)
-
 - **Xing Z.**, Zhong W. (2025+). "PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Networks Reconstruction." *arXiv*. [Download](https://arxiv.org/pdf/2411.11464)
 
 - **Xing Z.**, Wang Y. X. R., Wood A.T.T., Zou T. (2025+). "Regularization and Selection in A Directed Network Model with Nodal Homophily and Nodal Effects." *arXiv*. [Download](https://arxiv.org/pdf/2504.04622)
  
+- Che C., Chen Y., **Xing Z.**, Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation" *arXiv*. [Download](https://arxiv.org/abs/2507.09800)
 
 ## Publications 
 

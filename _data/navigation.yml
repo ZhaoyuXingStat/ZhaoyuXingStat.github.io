@@ -34,5 +34,6 @@ main:
 
   # 在这里添加下面这几行
   
-  - title: "Photography"
-    url: /photography/
+# 在 ZhaoyuXingStat.github.io/_data/navigation.yml 文件中
+- title: "Photography"
+  url: "https://ZhaoyuXingStat.github.io/photography"

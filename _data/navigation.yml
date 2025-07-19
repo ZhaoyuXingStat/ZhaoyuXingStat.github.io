@@ -34,6 +34,9 @@ main:
 
   # 在这里添加下面这几行
   
-# 在 ZhaoyuXingStat.github.io/_data/navigation.yml 文件中
+# ... 这里是其他链接，比如 Talks, Teaching 等 ...
+
 - title: "Photography"
-  url: "https://ZhaoyuXingStat/photography"
+  url: "https://zhaoyuxingstat.github.io/photography"
+
+# ... 这里可能还有其他链接 ...

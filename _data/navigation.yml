@@ -31,3 +31,8 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  # 在这里添加下面这几行
+  
+  - title: "Photography"
+    url: /photography/

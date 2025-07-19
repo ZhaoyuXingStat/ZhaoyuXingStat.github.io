@@ -34,7 +34,7 @@ author_profile: true
 <div class="photo-gallery">
   
   <div class="photo-item">
-    <img src="/assets/images/photography/photo-01.jpg" alt="你的照片描述 1">
+    <img src="/assets/images/photography/IMG_2968.JPG" alt="Picnic Train Canberra">
   </div> 
   
   </div>

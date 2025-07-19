@@ -44,10 +44,10 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
 
 ## Talks
--  Canberra, Australia, 2024 -  Academic report on CBE Statistic Seminar 
--  Canberra, Australia, 2023 - Academic report on Summer Research Camp  
--  Kunming, China, 2023	- Academic report on the Chinese Association for Applied Statistics  
--  Beijing, China, 2023	- Academic report on the Joint Conference on Statistics and Data Science in China  
+-  Canberra, Australia, 2024 - Academic report on CBE Statistic Seminar 
+-  Canberra, Australia, 2023 - Academic report on Summer Research Camp  
+-  Kunming, China, 2023 - Academic report on the Chinese Association for Applied Statistics  
+-  Beijing, China, 2023 - Academic report on the Joint Conference on Statistics and Data Science in China  
 
 
 

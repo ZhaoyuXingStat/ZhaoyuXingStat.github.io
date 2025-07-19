@@ -35,12 +35,20 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
  
 
-## Teaching Experience
+## Teaching  
 
 - **09/2024 - 12/2025**: Topics in Statistics (ND)
 - **09/2024 - 12/2024**: Regression Modelling (ANU)
 - **09/2024 - 12/2024**: Regression Modelling for Actuarial Studies (ANU)
 - **03/2024 - 07/2024**: Statistical Learning (ANU)
+
+
+## Talks
+-  Canberra, Australia, 2024 -  Academic report on CBE Statistic Seminar 
+-  Canberra, Australia, 2023 - Academic report on Summer Research Camp  
+-  Kunming, China, 2023	- Academic report on the Chinese Association for Applied Statistics  
+-  Beijing, China, 2023	- Academic report on the Joint Conference on Statistics and Data Science in China  
+
 
 
 ## Selected Rewards

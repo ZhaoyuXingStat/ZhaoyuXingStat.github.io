@@ -42,7 +42,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 - **03/2024 - 07/2024**: Statistical Learning (ANU)
 
 
-## Academic reports
+## Academic Reports
 
 -  Canberra, Australia, 2024 - Academic report on CBE Statistic Seminar 
 -  Canberra, Australia, 2023 - Academic report on Summer Research Camp  
@@ -59,6 +59,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 - Reward of Excellent Graduates of Xiamen University (2019)
 - Chailease International Scholarship (2019)
 - Reward of Xiamen University's Excellent Student (2019)
+
 
 ## Membership
 

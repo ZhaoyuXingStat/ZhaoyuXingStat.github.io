@@ -60,3 +60,11 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 - Chailease International Scholarship (2019)
 - Reward of Xiamen University's Excellent Student (2019)
 
+## Membership
+
+- 2025: Membership of National Postdoctoral Association (U.S.)
+- 2024: Membership of The Statistical Society of Australia (Australia)
+- 2023: Fellowshop of WISERCLUB (China)
+
+
+

@@ -36,7 +36,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
 ## Teaching Experiences
 
-- **01/2026 - 06/2026**: Statistics in Life Science (ND)
+- **01/2026 - 05/2026**: Statistics for Life Sciences (ND)
 - **09/2025 - 12/2025**: Topics in Statistics (ND)
 - **09/2024 - 12/2024**: Regression Modelling (ANU)
 - **09/2024 - 12/2024**: Regression Modelling for Actuarial Studies (ANU)

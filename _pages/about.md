@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> High-Dimensional Statistics, Network Modeling, Statistical Machine Learning, Unsupervised Learning
+> High-Dimensional Statistics, Network Modeling, Statistical Machine Learning, Deep Neural Networks, Tensor Factor Models
 
 I am currently a Robert and Sara Lumpkins Postdoctoral Research Associate at University of Notre Dame (ND) in U.S., Department of Applied and Computational Mathematics and Statistics. I received my Ph.D. in Statistics from Gregory and Paula Chow Institute for Studies in Economics, Xiamen University (XMU) in 2025, where I was advised by [Prof. Wei Zhong](https://faculty.xmu.edu.cn/wzhong/zh_CN/index/559037/list/index.htm). During 2023-2024, I was a visiting researcher at the Australian National University (ANU), College of Business and Economics. During 2019-2021, I completed my academic master's courses in Mathmatical Statistics at Wang Yanan Institute for Studies in Economics (WISE) of Xiamen University. I completed my Bachelor of Science in Statistics at School of Economics, Xiamen University. 
 
-My research focuses on **statistical machine learning**, **neuro network**, **spitial models** and **statistical network modeling**, particularly developing novel methodologies that bridge statistical theory with practical problems. I am also interested in interdisciplinary research at the intersection of statistics with machine learning, econometrics, and music.
+My research focuses on **high-Dimensional Statistics**, **deep neural network**, **spitial models**, **tensor factor models** and **statistical network modeling**, particularly developing novel methodologies that bridge statistical theory with practical problems. I am also interested in interdisciplinary research at the intersection of statistics with machine learning, econometrics, and music.
 
  
 ## Working Papers

@@ -12,14 +12,14 @@ I am currently a Robert and Sara Lumpkins Postdoctoral Research Associate at the
 
 My research focuses on **high-dimensional statistics**, **deep neural networks**, **spatial models**, **tensor factor models**, and **statistical network modeling**, particularly developing novel methodologies that bridge statistical theory with practical problems. I am also interested in interdisciplinary research at the intersection of statistics with machine learning, econometrics, and music.
 
- 
+
 ## Working Papers
 
 - **Xing Z.**, Zhong W. (2025+). "PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Network Reconstruction." *arXiv*. [Download](https://arxiv.org/pdf/2411.11464)
 
 - **Xing Z.**, Wang Y. X. R., Wood A.T.T., Zou T. (2025+). "Regularization and Selection in a Directed Network Model with Nodal Homophily and Nodal Effects." *arXiv*. [Download](https://arxiv.org/pdf/2504.04622)
  
-- Che C., Chen Y., **Xing Z.**, Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation." *arXiv*. [Download](https://arxiv.org/abs/2507.09800)
+- **Xing Z.**, Che C., Chen Y.,  Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation." *arXiv*. [Download](https://arxiv.org/abs/2507.09800)
 
 ## Publications 
 
@@ -36,14 +36,15 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
 ## Teaching Experience
 
-- **01/2026 - 05/2026**: Statistics for the Life Sciences (ND)
+- **01/2026 - 05/2026**: Probabilities and Statistics (ND)
+- **01/2026 - 05/2026**: Statistics in Life Sciences (ND)
 - **09/2025 - 12/2025**: Topics in Statistics (ND)
 - **09/2024 - 12/2024**: Regression Modelling (ANU)
 - **09/2024 - 12/2024**: Regression Modelling for Actuarial Studies (ANU)
 - **03/2024 - 07/2024**: Statistical Learning (ANU)
 
 
-## Presentations
+## Talks
 
 -  Canberra, Australia, 2024 - CBE Statistics Seminar 
 -  Canberra, Australia, 2023 - Summer Research Camp  

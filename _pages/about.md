@@ -36,7 +36,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
 ## Teaching Experience
 
-- **01/2026 - 05/2026**: Probabilities and Statistics (ND)
+- **08/2026 - 12/2026**: Probabilities and Statistics (ND)
 - **01/2026 - 05/2026**: Statistics in Life Sciences (ND)
 - **09/2025 - 12/2025**: Topics in Statistics (ND)
 - **09/2024 - 12/2024**: Regression Modelling (ANU)

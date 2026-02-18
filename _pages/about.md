@@ -54,6 +54,8 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 -  Beijing, China, 2023 - The Joint Conference on Statistics and Data Science in China  
 
 
+<div style="display:none">
+  
 ## Selected Honors and Awards
 
 - Xiamen University Scholarship for Outstanding PhD Candidates (2024)
@@ -66,7 +68,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
 
 
-<div style="display:none">
+
 ## Membership
 - 2025: Member, National Postdoctoral Association (U.S.)
 - 2024: Member, Statistical Society of Australia (Australia)

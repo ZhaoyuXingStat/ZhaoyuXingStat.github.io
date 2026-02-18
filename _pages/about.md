@@ -15,11 +15,13 @@ My research focuses on **high-dimensional statistics**, **deep neural networks**
 
 ## Working Papers
 
-- **Xing Z.**, Zhong W. (2025+). "PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Network Reconstruction." *arXiv*. [Download](https://arxiv.org/pdf/2411.11464)
+- **Xing Z.**, (2026+). "Robust Reconstruction of Latent Networks from Noisy Dynamics."  
 
-- **Xing Z.**, Wang Y. X. R., Wood A.T.T., Zou T. (2025+). "Regularization and Selection in a Directed Network Model with Nodal Homophily and Nodal Effects." *arXiv*. [Download](https://arxiv.org/pdf/2504.04622)
+- **Xing Z.**, Zhong W. (2026+). "PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Network Reconstruction." *arXiv*. [Download](https://arxiv.org/pdf/2411.11464)
+
+- **Xing Z.**, Wang Y. X. R., Wood A.T.T., Zou T. (2026+). "Regularization and Selection in a Directed Network Model with Nodal Homophily and Nodal Effects." *arXiv*. [Download](https://arxiv.org/pdf/2504.04622)
  
-- **Xing Z.**, Che C., Chen Y.,  Zhong W. (2025+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation." *arXiv*. [Download](https://arxiv.org/abs/2507.09800)
+- **Xing Z.**, Che C., Chen Y.,  Zhong W. (2026+). "FLAT: Fused Lasso Regression with Adaptive Minimum Spanning Tree with Applications on Thermohaline Circulation." *arXiv*. [Download](https://arxiv.org/abs/2507.09800)
 
 ## Publications 
 

@@ -15,7 +15,7 @@ My research focuses on **high-dimensional statistics**, **deep neural networks**
 
 ## Working Papers
 
-- **Xing Z.**, (2026+). "Robust Reconstruction of Latent Networks from Noisy Dynamics."  
+- **Xing Z.**, Yu X. (2026+). "NetworkNet: A Deep Neural Network Approach for Random Networks with Sparse Nodal Attributes and Complex Nodal Heterogeneity"   *arXiv*. [Download](https://arxiv.org/abs/2604.11673)
 
 - **Xing Z.**, Zhong W. (2026+). "PALMS: Parallel Adaptive Lasso with Multi-directional Signals for Latent Network Reconstruction." *arXiv*. [Download](https://arxiv.org/pdf/2411.11464)
 
@@ -38,7 +38,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
 ## Teaching Experience
 
-- **08/2026 - 12/2026**: Probability and Statistics for Machine Intelligence (ND)
+- **08/2026 - 12/2026**: Probability and Statistics for AI (ND)
 - **01/2026 - 05/2026**: Statistics in Life Sciences (ND)
 - **09/2025 - 12/2025**: High-dimensional Statistics (ND)
 - **09/2024 - 12/2024**: Regression Modelling (ANU)
@@ -48,6 +48,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 
 ## Talks
 
+-  Notre Dame, U.S.A., 2026 - AI Foundations Symposium
 -  Canberra, Australia, 2024 - CBE Statistics Seminar 
 -  Canberra, Australia, 2023 - Summer Research Camp  
 -  Kunming, China, 2023 - The Chinese Association for Applied Statistics  
@@ -65,8 +66,6 @@ See my [Google Scholar](https://scholar.google.com/citations?user=go6euNkAAAAJ&h
 - Outstanding Graduate of Xiamen University (2019)
 - Chailease International Scholarship (2019)
 - Outstanding Student of Xiamen University (2019)
-
-
 
 
 ## Membership
